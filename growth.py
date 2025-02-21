@@ -16,7 +16,7 @@ st.markdown(
     </style>
     """,
     unsafe_allow_html=True
-)
+                           )
 
 # Title and description
 st.title("Datasweeper Sterling Integrator by Muhammad Noman")
